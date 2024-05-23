@@ -3,8 +3,8 @@
     'name': 'Date Ranges Generator',
     'summary': 'Module for generating date ranges.',
     'author': "Psilon Sp. z o.o.",
-    'website': "https://www.psilon.pl",
-    'version': '1.0.0',
+    'website': "https://pomoc.psilon.pl",
+    'version': '1.0.1',
     'license': 'LGPL-3',
     'category': 'Uncategorized',
     'depends': [
